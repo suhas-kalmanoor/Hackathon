@@ -1,0 +1,5 @@
+{
+  "name": "AI Code Review Agent",
+  "description": "An AI-powered code review tool that analyzes code, identifies errors, suggests optimizations, and visualizes time complexity.",
+  "requestFramePermissions": []
+}
